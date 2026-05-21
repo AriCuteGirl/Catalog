@@ -1,0 +1,18 @@
+{
+  "games": [
+    {
+      "id": "outbound",
+      "title": "Outbound",
+      "description": "",
+      "genre": [],
+      "cover_url": "",
+      "banner_url": "",
+      "screenshots": [],
+      "download_url": "https://app.filen.io/#/d/d289a3d1-c78b-4b5a-af9b-259b786c62a8%23Mv0e0f2FUdxF1fu5BLitGE2V-SsEEE9g",
+      "developer": "",
+      "tags": [],
+      "size_bytes": null,
+      "version": null
+    }
+  ]
+}
